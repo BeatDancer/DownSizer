@@ -1,0 +1,16 @@
+C:\Users\plame\3D Objects\DownSizer\obj\Debug\net8.0-windows\DownSizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\3D Objects\DownSizer\obj\Debug\net8.0-windows\DownSizer.AssemblyInfoInputs.cache
+C:\Users\plame\3D Objects\DownSizer\obj\Debug\net8.0-windows\DownSizer.AssemblyInfo.cs
+C:\Users\plame\3D Objects\DownSizer\obj\Debug\net8.0-windows\DownSizer.csproj.CoreCompileInputs.cache
+C:\Users\plame\3D Objects\DownSizer\obj\Debug\net8.0-windows\DownSizer.Downsizer.resources
+C:\Users\plame\3D Objects\DownSizer\obj\Debug\net8.0-windows\DownSizer.csproj.GenerateResource.cache
+C:\Users\plame\3D Objects\DownSizer\bin\Debug\net8.0-windows\DownSizer.exe
+C:\Users\plame\3D Objects\DownSizer\bin\Debug\net8.0-windows\DownSizer.deps.json
+C:\Users\plame\3D Objects\DownSizer\bin\Debug\net8.0-windows\DownSizer.runtimeconfig.json
+C:\Users\plame\3D Objects\DownSizer\bin\Debug\net8.0-windows\DownSizer.dll
+C:\Users\plame\3D Objects\DownSizer\bin\Debug\net8.0-windows\DownSizer.pdb
+C:\Users\plame\3D Objects\DownSizer\obj\Debug\net8.0-windows\DownSizer.dll
+C:\Users\plame\3D Objects\DownSizer\obj\Debug\net8.0-windows\refint\DownSizer.dll
+C:\Users\plame\3D Objects\DownSizer\obj\Debug\net8.0-windows\DownSizer.pdb
+C:\Users\plame\3D Objects\DownSizer\obj\Debug\net8.0-windows\DownSizer.genruntimeconfig.cache
+C:\Users\plame\3D Objects\DownSizer\obj\Debug\net8.0-windows\ref\DownSizer.dll
